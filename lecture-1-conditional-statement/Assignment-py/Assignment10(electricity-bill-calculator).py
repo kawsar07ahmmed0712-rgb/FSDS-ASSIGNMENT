@@ -2,7 +2,7 @@
 Problem:
 Input number of units consumed and calculate bill:
     ● Up to 100 units → 5 BDT per unit
-    ● 101–200 units → 7 BDT per unit
+    ● 101-200 units → 7 BDT per unit
     ● Above 200 units → 10 BDT per unit
 Print total payable amount.
 """
